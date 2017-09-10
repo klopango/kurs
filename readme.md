@@ -7,7 +7,6 @@ The purpose of this package is to scrap currency data, but since I didn't put ma
 ## Usage
 
 ### Params
-<br>
 * Amount
 * From
 * To
