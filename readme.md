@@ -1,5 +1,5 @@
 # Kurs
-[![Bless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](http://lunagao.github.io/BlessYourCodeTag/) `1.0.2-beta` <br><br>
+[![Bless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/jesus.svg)](http://lunagao.github.io/BlessYourCodeTag/) `1.0.2-beta2` <br><br>
 Kurs came from the word 'kurensi' from Bahasa Indonesia.
 
 The purpose of this package is to scrap currency data, but since I didn't put many effort in it. It will only return a string, for now.

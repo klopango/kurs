@@ -1,6 +1,6 @@
 {
   "name": "kurs",
-  "version": "1.0.2-beta",
+  "version": "1.0.2-beta2",
   "description": "A node package that will make scrapping currency text easier",
   "main": "index.js",
   "scripts": {
